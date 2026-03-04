@@ -17,7 +17,6 @@ This project demonstrates how Python can be used to create a basic voice assista
 - <a href="#Project Structure">Project Structure</a>
 - <a href="#Installation & Setup">Installation & Setup</a>
 - <a href="#How to Run">How to Run</a>
-- <a href="#API Response">API Response</a>
 - <a href="#Future Improvements">Future Improvements</a>
 - <a href="#Author">Author</a>
 
