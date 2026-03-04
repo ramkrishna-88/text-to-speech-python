@@ -3,6 +3,7 @@
 A simple Python Text-to-Speech (TTS) program that converts text into spoken voice using 
 
 - **Python**
+- **speech_recognition**
 - **pyttsx3 library**
 
 This project demonstrates how Python can be used to create a basic voice assistant feature.
